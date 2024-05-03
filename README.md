@@ -1,5 +1,5 @@
 # Data-Governance-Accelerator
-                                       **DATA DEFINITION**
+                                       #**DATA DEFINITION**
                                         
 Unprocessed or raw information is referred to as data. It can depict data in the form of measurements, facts, statistics, observations, or any other type of input that can be processed or examined in order to obtain knowledge, make choices, or produce outcomes that are significant.
 
