@@ -67,4 +67,32 @@ Organizations that are stewards of personal data must comply with laws, maintain
 
 **Data Sovereignty:** This concept emphasizes that data is subject to the laws and governance of the country where it resides.
 
+                                        **DATA ARCHITECTURE**
 
+**Data architecture** refers to the design, structure, and organization of an information system that governs how data is collected, stored, processed, integrated, and used within an organization. It is a critical component of a company's overall IT infrastructure and supports various business processes and decision-making functions. 
+
+
+**Data Models:** Represent the structure of data in a system. Common types include conceptual, logical, and physical data models. Conceptual models outline high-level structures, logical models define relationships and keys, and physical models focus on how data is stored in databases.
+
+**Data Governance:** Encompasses the policies, standards, and procedures that ensure data quality, consistency, security, and compliance with regulations. This includes data stewardship, data ownership, and data management practices.
+
+**Data integration:** Is the process of combining data from multiple sources into a unified view. Techniques include ETL (Extract, Transform, Load), ELT (Extract, Load, Transform), data virtualization, and data federation.
+
+**Data warehousing:** Involves creating a central repository for structured data to support business intelligence and analytics. Data warehouses often use OLAP (Online Analytical Processing) techniques for fast querying and reporting.
+
+**Data lakes:** Are large repositories that can store structured, semi-structured, and unstructured data. They are designed for flexibility and support advanced analytics, including big data processing.
+
+
+**Data architecture:** Must ensure data protection through encryption, access controls, data masking, and other security measures. Compliance with regulations like GDPR, HIPAA, or CCPA is also crucial.
+
+**Data quality:** Involves ensuring that data is accurate, consistent, complete, and reliable. Data cleansing, data validation, and data profiling are common techniques to maintain high data quality.
+
+**Data architecture supports business analytics and intelligence:** Enabling organizations to derive insights from data. This includes the use of data visualization tools, machine learning, and AI-based analytics.
+
+**Metadata Management:**
+Metadata is data about data. Effective metadata management helps catalog data assets, define data lineage, and improve data discoverability and understanding.
+
+**Data Storage and Scalability:**
+Data architecture must accommodate current and future data storage needs while ensuring scalability to handle increased data volumes. Technologies include relational databases, NoSQL databases, cloud storage, and distributed file systems.
+
+**Data migration:** Refers to the process of moving data from one system to another. Proper data architecture ensures seamless migration without data loss or corruption.
